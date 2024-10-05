@@ -1,4 +1,4 @@
-  • Rating Component   
+• Rating Component
 
 1 - Create a rating widget with 5 stars.
 2 - The stars should initially appear grey and in a horizontal row.
